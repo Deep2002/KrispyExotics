@@ -1,1 +1,1 @@
-web: gunicorn krispyexotics.wsgi --log-file -
+web: gunicorn application.wsgi --log-file -
