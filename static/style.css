@@ -201,6 +201,9 @@ img {
         float: left;
         padding-left: 10px;
     }
+    .navi{
+        display: none;
+    }
   }
 
 
